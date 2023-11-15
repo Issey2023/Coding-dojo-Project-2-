@@ -125,6 +125,5 @@ ___
 # Phase 4) Evaluation
  
 Baed on the model performance and the data analytics that has been graphed. It is noted that people lving in urban areas are more likely to suffer strokes. <br>People that are married have a higher likelihood of strokes.<br>
-Recommendation is to move to a Rural area, if pssible. <br>
 Remaining single as long as possible might be good for your health a married people suffer more strokes.<br>
 Do not smoke as smoking contributes to increases the likelihood of a stroke.<br>
